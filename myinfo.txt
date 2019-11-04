@@ -1,3 +1,3 @@
-"Name: Umair Mansha" 
-"Name: Umair Mansha" 
-NAME: Umair Mansha 
+NAME: Umair Mansha
+Email: umair.chaudhary1@ucp.edu.pk
+Faculty of information technology
